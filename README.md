@@ -49,6 +49,8 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### :fire: My Stats :
+<img src ="http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
+
 
 
