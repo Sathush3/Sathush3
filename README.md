@@ -52,5 +52,5 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
 ### :fire: My Stats :
 <img src ="http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathush3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
