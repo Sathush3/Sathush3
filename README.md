@@ -28,7 +28,9 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
 - 🌱 I’m currently learning **AWS Cloud & Deep CNN**
 
 - :zap: In my free time, I work on image classificaion projects read tech articles.
-<br/>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -48,9 +50,13 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br/>
+---
+
 ### :fire: My Stats :
-<img src ="http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathush3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
