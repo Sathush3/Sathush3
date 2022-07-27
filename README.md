@@ -18,7 +18,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Sathush;%20Passionate%20Mobile%20Developer;%20Machine%20Learning%20Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=ff4130&vCenter=true&size=28"></a>
 </p>
----
 
 ### :man_technologist: About Me :
 
@@ -30,7 +29,6 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
 
 - :zap: In my free time, I work on image classificaion projects read tech articles.
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,7 +49,6 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: My Stats :
 
@@ -60,4 +57,3 @@ I am a Mobile Application developer and Machine learning Engineer <img src="http
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathush3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
