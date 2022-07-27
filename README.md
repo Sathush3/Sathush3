@@ -18,7 +18,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Sathush;%20Passionate%20Mobile%20Developer;%20Machine%20Learning%20Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=ff4130&vCenter=true&size=28"></a>
 </p>
-<br/>
+---
+
 ### :man_technologist: About Me :
 
 I am a Mobile Application developer and Machine learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
