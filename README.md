@@ -1,23 +1,11 @@
-### Hi there 👋
 
-<!--
-**Sathush3/Sathush3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Typing SVG generated from - https://github.com/DenverCoder1/readme-typing-svg | https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Sathush;%20Passionate%20Mobile%20Developer;%20Machine%20Learning%20Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=ff4130&vCenter=true&size=28"></a>
 </p>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)" width="200"/>
+</div>
 
 - 🔭 Undergraduate Of University of Westminster
 
