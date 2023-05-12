@@ -23,11 +23,11 @@
 
 I am a Mobile Application developer and Machine learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 Undergraduate Of University of Westminster
+- 🌱 I’m currently working as Flutter developer 
 
-- 🌱 I’m currently learning **AWS Cloud & Deep CNN**
+- 🔭 Software Engineer graduate Of University of Westminster
 
-- :zap: In my free time, I work on image classificaion projects read tech articles.
+- :zap: In my free time, I read tech articles, fiddle with AI tools and game.
 
 
 ### :hammer_and_wrench: Languages and Tools :
