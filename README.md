@@ -1,59 +1,60 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="coding gif"/>
 </div>
-<!-- Social icons section -->
-<p align="center">
 
-<a href="https://www.instagram.com/sathush_chandran/" target="_blank">
-  <img align="center" alt="Sathush | Instagram" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sathush-chandran-707161197/" target="_blank">
-  <img align="center" alt="Sathush | Linkedin" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/linkedin.svg" />
-</a> &nbsp;&nbsp;
-<p>
-
-<br/>
-  <!-- Typing SVG generated from - https://github.com/DenverCoder1/readme-typing-svg | https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Sathush;%20Passionate%20Mobile%20Developer;%20Machine%20Learning%20Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=ff4130&vCenter=true&size=28"></a>
+  <a href="https://www.linkedin.com/in/sathush-chandran-707161197/" target="_blank">
+    <img alt="LinkedIn" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sathush_chandran/" target="_blank">
+    <img alt="Instagram" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/instagram.svg" />
+  </a>
 </p>
 
-### :man_technologist: About Me :
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C%20I'm%20Sathush;Software%20Engineer%20II;Flutter%20%7C%20iOS%20%7C%20Mobile%20Development;Building%20performant%20cross-platform%20apps&font=Fira%20Code&center=true&width=700&height=45&color=4DA6FF&vCenter=true&size=24" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a Mobile Application developer and Machine learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## About Me
 
-- 🌱 I’m currently working as Flutter developer 
+I’m Sathush, a Software Engineer II with experience building production mobile applications using Flutter and native iOS technologies.
 
-- 🔭 Software Engineer graduate Of University of Westminster
+My work focuses on:
+- cross-platform mobile app development with Flutter
+- responsive and maintainable UI implementation
+- REST API integration and app architecture
+- performance optimization for data-heavy and interactive apps
+- shipping stable releases to production
 
-- :zap: In my free time, I read tech articles, fiddle with AI tools and game.
+I also have exposure to AI and machine learning projects, and I enjoy building practical software that solves real user problems.
 
+- Currently focused on Flutter, mobile architecture, and performance
+- Graduate of the University of Westminster
+- Interested in mobile engineering, app scalability, and developer tooling
 
-### :hammer_and_wrench: Languages and Tools :
+## Languages and Tools
+
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg"title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+## GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sathush3&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathush3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
