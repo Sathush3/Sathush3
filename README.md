@@ -29,7 +29,7 @@ My work focuses on:
 - performance optimization for data-heavy and interactive apps
 - shipping stable releases to production
 
-I also have exposure to AI and machine learning projects, and I enjoy building practical software that solves real user problems.
+I am currently pursuing a Master’s in Artificial Intelligence at Monash University Malaysia, alongside my work in software engineering.
 
 - Currently focused on Flutter, mobile architecture, and performance
 - Graduate of the University of Westminster
