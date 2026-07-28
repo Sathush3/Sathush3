@@ -57,4 +57,5 @@ I am currently pursuing a Master’s in Artificial Intelligence at Monash Univer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sathush3)](https://git.io/streak-stats)
 
-[![Sathush's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sathush3)](https://github.com/stats-organization/github-stats-extended)
+[![Sathush's GitHub stats]([https://github-stats-extended.vercel.app/api?username=Sathush3)](https://github.com/stats-organization/github-stats-extended](https://github-stats-extended.vercel.app/api/top-langs?username=Sathush3&langs_count=5&hide_values=true))
+
