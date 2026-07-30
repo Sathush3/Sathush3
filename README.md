@@ -101,6 +101,7 @@ Through postgraduate study and independent projects, I work with:
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sathush3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sathush3)](https://git.io/streak-stats)
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sathush3&langs_count=5&hide_values=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Sathush3&langs_count=5&hide_values=true)
